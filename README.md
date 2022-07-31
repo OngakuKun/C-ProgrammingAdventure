@@ -1,2 +1,2 @@
 # C-ProgrammingAdventure
-A Collection of C learning Projects all using the same Layout
+A Collection of C/C++ learning Projects all using the same Layout
