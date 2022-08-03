@@ -1,3 +1,6 @@
 [submodule "HelloWorld"]
 	path = HelloWorld
 	url = https://github.com/OngakuKun/HoHako-HelloWorld
+[submodule "OpenGLTriangle"]
+	path = OpenGLTriangle
+	url = https://github.com/OngakuKun/HoHako-OpenGLTriangle
